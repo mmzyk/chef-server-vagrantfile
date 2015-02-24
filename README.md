@@ -14,6 +14,6 @@ For network talk to happen, will likely need to add ip mapped to hostname in
 
 To hit in browser, hit https://server.test
 
-The base dir with the Vagrantfile will be mapped to /Vagrant on the vm.
+The base dir with the Vagrantfile will be mapped to /vagrant on the vm.
 This can be used to get installers on the box and install a chef-server
 or another package.
